@@ -21,7 +21,7 @@ namespace Assignment5
         
         string nameOfMaximumGpaStudent;
         string nameOfMinimumGpaStudent;
-        // string idFind;
+       
 
         public StudentInformationForm()
         {
@@ -227,10 +227,7 @@ namespace Assignment5
 
 
                     }
-                    else 
-                    {
-                        MessageBox.Show("no record found");
-                    }
+                   
                     
 
                     idTextBox.Clear();
@@ -246,10 +243,7 @@ namespace Assignment5
                     {
                         resultRichTextBox.Text += "id :" + id[i] + " " + "name " + name[i] + " " + "Mobile Number :" + mobile[i] + " " + "Age " + age[i] + " " + " GPA :" + gpaPoint[i] + " Address :" + address[i] + "\n ";
                     }
-                    else
-                    {
-                        MessageBox.Show("no record found");
-                    }
+                    
                    
                     nameTextBox.Clear();
                 }
@@ -266,10 +260,7 @@ namespace Assignment5
                         
                     }
 
-                    else
-                    {
-                        MessageBox.Show("no record found");
-                    }
+                  
                     mobileTextBox.Clear();
                 }
 

@@ -7,3 +7,6 @@ C:\Users\prantoshon\Documents\Bitm\Assigment\Day2\Bitm_Assignment2\Assignment5\A
 C:\Users\prantoshon\Documents\Bitm\Assigment\Day2\Bitm_Assignment2\Assignment5\Assignment5\obj\Debug\Assignment5.csproj.GenerateResource.Cache
 C:\Users\prantoshon\Documents\Bitm\Assigment\Day2\Bitm_Assignment2\Assignment5\Assignment5\obj\Debug\Assignment5.exe
 C:\Users\prantoshon\Documents\Bitm\Assigment\Day2\Bitm_Assignment2\Assignment5\Assignment5\obj\Debug\Assignment5.pdb
+C:\Users\prantoshon\Documents\Bitm\Assigment\Day5\StudentInformationFrom\Assignment5\Assignment5\bin\Debug\Assignment5.exe.config
+C:\Users\prantoshon\Documents\Bitm\Assigment\Day5\StudentInformationFrom\Assignment5\Assignment5\obj\Debug\Assignment5.exe
+C:\Users\prantoshon\Documents\Bitm\Assigment\Day5\StudentInformationFrom\Assignment5\Assignment5\obj\Debug\Assignment5.pdb
